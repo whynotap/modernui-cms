@@ -18,8 +18,10 @@ Install my-project with npm
 
 ## Authors
 
-- [Sple](https://github.com/Sple-VH)
-- [Python](https://github.com/whynotap)
-- [Jonathan](https://github.com/Joonaathaann)
+- [Eklopsis]
+- [BillStrack]
+- [Python]
+
+Thanks for Eklopsis and BillStrack for front-end and Python for back-end
 
 
