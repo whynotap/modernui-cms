@@ -1,5 +1,5 @@
 
-![Logo]([https://vicehabbo.eu/public/img/logo.gif](https://i.imgur.com/6kO09gP.gif))
+![Logo](https://i.imgur.com/6kO09gP.gif)
 
 
 # 🚀 ModernUI - CMS
