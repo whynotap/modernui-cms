@@ -16,10 +16,8 @@
 
 ## Authors
 
-- [Eklopsis]
-- [BillStrack]
 - [Python]
 
-Thanks for Eklopsis and BillStrack for front-end and Python for back-end
+Thank you to everyone who will use this CMS
 
 
